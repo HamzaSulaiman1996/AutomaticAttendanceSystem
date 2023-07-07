@@ -1,0 +1,9 @@
+click==8.1.4
+cmake==3.26.4
+colorama==0.4.6
+dlib @ git+https://github.com/RvTechiNNovate/face_recog_dlib_file.git ## https://www.geeksforgeeks.org/how-to-install-face-recognition-in-python-on-windows/
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+numpy==1.24.4
+opencv-python==4.8.0.74
+Pillow==10.0.0
